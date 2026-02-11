@@ -1,0 +1,15 @@
+Original Prompt: Improve this prompt: write a story about a cat
+Refined Output:  Write a short children’s story that centers around a mischievous household pet cat named Fluffy. Explain how the cat interacts with family members and causes minor pranks throughout the narrative, highlighting its playful nature. Conclude by showing how love and companionship balance out its antics.
+--------------------------------------------------
+Original Prompt: Improve this prompt: I want a python script for web scraping
+Refined Output:  You are an information-extraction specialist. Write a Python script that extracts data from a given URL using Beautiful Soup or similar library, and return the extracted content as a JSON object. Ensure all required dependencies are included in the code.
+--------------------------------------------------
+Original Prompt: Improve this prompt: tell me about black holes
+Refined Output:  Explain that a black hole is a region of space where gravity is so strong that nothing, not even light, can escape. Describe how they form and their role in the universe. Provide examples such as the Event Horizon Telescope’s discovery of the M87* black hole. Conclude by emphasizing their importance to understanding astrophysics.
+--------------------------------------------------
+Original Prompt: Improve this prompt: create a marketing email
+Refined Output: Improve the given passage by turning it into a promotional email. Explain how to structure an effective subject line, opening paragraph, and call-to-action. Provide examples of persuasive language.
+--------------------------------------------------
+Original Prompt: Improve this prompt: explain quantum physics to a 5 year old
+Refined Output:  You are an educator specializing in accessible science for young learners. Explain that explaining quantum physics requires using simple terms and analogies. Describe how atoms behave at the smallest scale, including superposition and entanglement. Provide examples like Schr�dinger’s cat or light behaving as both particles and waves. Conclude by emphasizing that understanding foundational concepts helps build curiosity about nature.
+--------------------------------------------------
