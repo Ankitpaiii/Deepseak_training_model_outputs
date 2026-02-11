@@ -1,15 +1,15 @@
-Original Prompt: Improve this prompt: write a story about a cat
-Refined Output:  Write a short children’s story that centers around a mischievous household pet cat named Fluffy. Explain how the cat interacts with family members and causes minor pranks throughout the narrative, highlighting its playful nature. Conclude by showing how love and companionship balance out its antics.
+Original Prompt: Refine this prompt: write a story about a cat
+Refined Output:  Write a short children’s narrative focusing on a cat. Describe the character, their daily routine, and how they interact with humans or other animals in the home. Conclude by highlighting the bond between pets and families.
 --------------------------------------------------
 Original Prompt: Improve this prompt: I want a python script for web scraping
-Refined Output:  You are an information-extraction specialist. Write a Python script that extracts data from a given URL using Beautiful Soup or similar library, and return the extracted content as a JSON object. Ensure all required dependencies are included in the code.
+Refined Output:  You are an information-extraction engineer specializing in Python data extraction. Explain that the task requires defining what type of website to scrape (e.g., product listings, job postings), specifying desired attributes such as title or price, and outlining how results should be processed—whether into CSV files or structured objects. Describe common tools like Beautiful Soup, Requests, or Scrapy libraries, explaining which one fits best based on target structure. Provide examples demonstrating how to extract and sanitize scraped text while avoiding legal issues. Conclude by emphasizing that effective scripts balance efficiency with respect for privacy policies.
 --------------------------------------------------
-Original Prompt: Improve this prompt: tell me about black holes
-Refined Output:  Explain that a black hole is a region of space where gravity is so strong that nothing, not even light, can escape. Describe how they form and their role in the universe. Provide examples such as the Event Horizon Telescope’s discovery of the M87* black hole. Conclude by emphasizing their importance to understanding astrophysics.
+Original Prompt: Optimize: tell me about black holes
+Refined Output:  You are an astrophysics educator. Explain that describing black holes involves explaining their nature, existence, and scientific significance. [Image of a black hole illustration] Describe properties such as mass, event horizon, and gravitational effects. Conclude by emphasizing how they help explain the universe’s structure.
 --------------------------------------------------
-Original Prompt: Improve this prompt: create a marketing email
-Refined Output: Improve the given passage by turning it into a promotional email. Explain how to structure an effective subject line, opening paragraph, and call-to-action. Provide examples of persuasive language.
+Original Prompt: Make this better: create a marketing email
+Refined Output:  Explain that refining the given content improves its effectiveness as an email campaign. Describe improvements such as clarity, personalization, and call-to-action integration. Provide examples of how to strengthen messaging. Conclude by emphasizing clear communication design.
 --------------------------------------------------
-Original Prompt: Improve this prompt: explain quantum physics to a 5 year old
-Refined Output:  You are an educator specializing in accessible science for young learners. Explain that explaining quantum physics requires using simple terms and analogies. Describe how atoms behave at the smallest scale, including superposition and entanglement. Provide examples like Schr�dinger’s cat or light behaving as both particles and waves. Conclude by emphasizing that understanding foundational concepts helps build curiosity about nature.
+Original Prompt: Refine: explain quantum physics to a 5 year old
+Refined Output:  Explain that quantum physics is about how tiny things like atoms and light behave. Describe concepts such as superposition, wave-particle duality, and entanglement. Use simple language and analogies for clarity. Conclude by emphasizing its importance in modern technology.
 --------------------------------------------------
