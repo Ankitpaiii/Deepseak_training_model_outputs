@@ -15,19 +15,12 @@ BASE_MODEL_ID = r"D:\training_deepseak\model\deepseek-llm-7b-chat"
 ADAPTER_PATH  = r"D:\training_deepseak\output\deepseek-lora"
 
 # Sample prompts for testing the refining capability
-# TEST_PROMPTS = [
-#     "Refine this prompt: write a story about a cat",
-#     "Improve this prompt: I want a python script for web scraping",
-#     "Optimize: tell me about black holes",
-#     "Make this better: create a marketing email",
-#     "Refine: explain quantum physics to a 5 year old"
-# ]
 TEST_PROMPTS = [
-    "Improve this prompt: write a story about a cat",
+    "Refine this prompt: write a story about a cat",
     "Improve this prompt: I want a python script for web scraping",
-    "Improve this prompt: tell me about black holes",
-    "Improve this prompt: create a marketing email",
-    "Improve this prompt: explain quantum physics to a 5 year old"
+    "Optimize: tell me about black holes",
+    "Make this better: create a marketing email",
+    "Refine: explain quantum physics to a 5 year old"
 ]
 
 
